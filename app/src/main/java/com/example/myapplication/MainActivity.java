@@ -23,5 +23,7 @@ public class MainActivity extends AppCompatActivity {
         DatabaseReference myRef = database.getReference("message");
 
         myRef.setValue("Hello, World!");
+
+        //test용 주석
     }
 }
