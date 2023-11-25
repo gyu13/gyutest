@@ -24,6 +24,6 @@ public class MainActivity extends AppCompatActivity {
 
         myRef.setValue("Hello, World!");
 
-        //test용 주석
+        //test용 주석12
     }
 }
